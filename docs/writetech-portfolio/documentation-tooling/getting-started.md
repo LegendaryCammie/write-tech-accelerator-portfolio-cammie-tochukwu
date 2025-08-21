@@ -12,13 +12,14 @@ This improved guide is designed to be beginner-friendly with **clear steps, diag
 
 ---
 
-## 📑 Table of Contents
-- [Prerequisites](#-prerequisites)  
-- [Base URL](#-base-url)  
-- [Fetching Data (GET)](#-how-to-fetch-data-get)  
-- [Creating Data (POST)](#-how-to-create-data-post)  
-- [Deleting Data](#-how-to-remove-data-delete)  
-- [👉 Next Steps](#-next-steps)  
+## Table of Contents
+- [Prerequisites](#prerequisites)  
+- [Base URL](#base-url)  
+- [Fetching Data (GET)](#how-to-fetch-data-get)  
+- [Creating Data (POST)](#how-to-create-data-post)  
+- [Deleting Data](#how-to-remove-data-delete)  
+- [Next Steps](#next-steps)  
+ 
 
 ---
 

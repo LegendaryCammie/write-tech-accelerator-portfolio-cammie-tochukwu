@@ -23,7 +23,7 @@ This improved guide is designed to be beginner-friendly with **clear steps, diag
 
 ---
 
-## 🔧 Prerequisites
+## Prerequisites
 
 Before you start, make sure you have the following:
 

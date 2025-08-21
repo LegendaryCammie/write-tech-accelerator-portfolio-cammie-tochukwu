@@ -13,13 +13,12 @@ This improved guide is designed to be beginner-friendly with **clear steps, diag
 ---
 
 ## 📑 Table of Contents
-- [Prerequisites](#-prerequisites)
-- [Base URL](#-base-url)
-- [First Request — Fetch Posts](#-first-request--fetch-posts)
-- [Fetch a Single User](#-fetch-a-single-user)
-- [Creating Data (POST)](#-creating-data-post)
-- [Deleting Data](#-deleting-data)
-- [Summary](#-summary)
+- [Prerequisites](#-prerequisites)  
+- [Base URL](#-base-url)  
+- [Fetching Data (GET)](#-how-to-fetch-data-get)  
+- [Creating Data (POST)](#-how-to-create-data-post)  
+- [Deleting Data](#-how-to-remove-data-delete)  
+- [👉 Next Steps](#-next-steps)  
 
 ---
 

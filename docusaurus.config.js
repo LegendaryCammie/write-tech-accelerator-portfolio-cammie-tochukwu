@@ -107,7 +107,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/LegendaryCammie/writetech-accelerator-portfolio-tochukwu',
+            href: 'https://github.com/LegendaryCammie/write-tech-accelerator-portfolio-cammie-tochukwu',
             label: 'GitHub',
             position: 'right',
           },

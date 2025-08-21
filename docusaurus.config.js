@@ -120,8 +120,8 @@ const config = {
             title: 'Explore Docs',
             items: [
               { label: 'Overview', to: '/docs/intro' },
-              { label: 'Getting Started', to: '/docs/getting-started' },
-              { label: 'API Reference', to: '/docs/api-reference/get-user' },
+              { label: 'Getting Started', to: '/docs/writetech-portfolio/documentation-tooling/getting-started' },
+              { label: 'API Reference', to: '/docs/writetech-portfolio/documentation-tooling/api-reference/get-user' },
             ],
           },
           {

@@ -29,8 +29,8 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_loving-it_hspq.svg').default,
     description: (
       <>
-        Every page is crafted with <em>clarity, care, and coffee ☕</em> — so your
-      learning journey feels soft, supportive, and human.
+        Every page is crafted with <em>clarity, care, and coffee ☕</em> — so even technology feels gentle, 
+        supportive, and human
       </>
     ),
   },

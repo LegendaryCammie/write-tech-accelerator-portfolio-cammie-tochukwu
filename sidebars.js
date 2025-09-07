@@ -54,7 +54,20 @@ const sidebars = {
     {
       type: 'category',
       label: 'API Documentation and OpenAPI',
-      items: ['writetech-portfolio/api-documentation-and-openapi/intro']
+      items: [
+        'writetech-portfolio/api-documentation-and-openapi/intro',
+        'writetech-portfolio/api-documentation-and-openapi/getting-started',
+        {
+          type: 'category',
+          label: 'API Reference',
+          items: [
+            'writetech-portfolio/api-documentation-and-openapi/add-beneficiary',
+            'writetech-portfolio/api-documentation-and-openapi/wallet-details',
+            'writetech-portfolio/api-documentation-and-openapi/wallet-transfer-quotes',
+            'writetech-portfolio/api-documentation-and-openapi/wallet-transfer'
+          ]      
+        }
+      ]
     },
     {
       type: 'category',

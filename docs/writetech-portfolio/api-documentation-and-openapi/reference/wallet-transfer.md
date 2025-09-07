@@ -114,7 +114,7 @@ Example: Invalid Recipient (400)
 **How to fix**:
 - Use /beneficiaries/add first, then retry with the returned beneficiaryId.
 
-:::remember
+:::tip
 For email/phone recipients, confirm they’ve registered/activated their wallet to avoid errors.
 :::
 

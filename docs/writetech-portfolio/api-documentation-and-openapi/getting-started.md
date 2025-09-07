@@ -94,7 +94,7 @@ Now that you’ve got the **basics out of the way** — API keys, headers, and r
 
 👉 Check out the **Reference Docs** where we walk through actual Chimoney endpoints (like checking your balance or sending a transfer), with sample requests and JSON responses:
 
-- [View API Reference →](./reference/get-balance.md)
+- [View API Reference →](./reference/wallet-transfer.md)
 
 ---
 

@@ -44,6 +44,7 @@ Host: api-v2-sandbox.chimoney.io
 X-API-KEY: your_api_key_here
 Content-Type: application/json
 
+```bash
 {
   "walletId": "wallet_12345xyz",
   "beneficiaryId": "bnf_67890abc",

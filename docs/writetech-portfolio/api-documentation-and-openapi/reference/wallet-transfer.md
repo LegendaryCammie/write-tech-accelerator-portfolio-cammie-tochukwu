@@ -44,7 +44,6 @@ Host: api-v2-sandbox.chimoney.io
 X-API-KEY: your_api_key_here
 Content-Type: application/json
 
-```bash
 {
   "walletId": "wallet_12345xyz",
   "beneficiaryId": "bnf_67890abc",
@@ -52,7 +51,7 @@ Content-Type: application/json
   "currency": "NGN",
   "reference": "transfer_20250828_001"
 }
-```bash
+```
 
 
 ### Successful Response (200 OK)

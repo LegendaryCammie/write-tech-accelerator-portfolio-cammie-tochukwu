@@ -21,7 +21,7 @@ POST /v0.2.4/wallets/transfer
 ### Authentication
 All requests must include your API key. Without it, you’ll receive a 401 Unauthorized.
 
-X-API-KEY: <YOUR_API_KEY>
+X-API-KEY: `<YOUR_API_KEY>`
 Content-Type: application/json
 
 ---

@@ -21,7 +21,7 @@ POST /v0.2.4/wallets/lookup
 
 ### Authentication
 All requests must include your API key. If missing or invalid, you’ll receive a `401 Unauthorized`.
-X-API-KEY: <YOUR_API_KEY>
+X-API-KEY: `<YOUR_API_KEY>`
 Content-Type: application/json
 
 ---

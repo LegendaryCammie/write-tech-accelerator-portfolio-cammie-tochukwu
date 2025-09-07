@@ -41,7 +41,7 @@ Chimoney uses an **API Key** for authentication.
 3. Copy your generated **API Key**  
 
 Include the key in the request header like this:
-Authorization: Bearer <your_api_key>
+Authorization: Bearer `<your_api_key>`
 Content-Type: application/json
 
 :::caution

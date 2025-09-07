@@ -63,8 +63,8 @@ const sidebars = {
           items: [
             'writetech-portfolio/api-documentation-and-openapi/reference/add-beneficiary',
             'writetech-portfolio/api-documentation-and-openapi/reference/wallet-details',
-            'writetech-portfolio/api-documentation-and-openapi/referencewallet-transfer-quotes',
-            'writetech-portfolio/api-documentation-and-openapi/referencewallet-transfer'
+            'writetech-portfolio/api-documentation-and-openapi/reference/wallet-transfer-quotes',
+            'writetech-portfolio/api-documentation-and-openapi/reference/wallet-transfer'
           ]      
         }
       ]

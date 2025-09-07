@@ -18,10 +18,8 @@ It is commonly used when you need to:
 POST /v0.2.4/wallets/transfer/quote
 
 ### Authentication
-```http
-X-API-KEY: `<YOUR_API_KEY>`
+X-API-KEY: `YOUR_API_KEY`
 Content-Type: application/json
-```
 
 ---
 

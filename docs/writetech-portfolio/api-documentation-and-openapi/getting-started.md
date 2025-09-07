@@ -41,7 +41,7 @@ Chimoney uses an **API Key** for authentication.
 3. Copy your generated **API Key**  
 
 Include the key in the request header like this:
-Authorization: Bearer `<your_api_key>`
+Authorization: Bearer `your_api_key`
 Content-Type: application/json
 
 :::caution
@@ -62,13 +62,13 @@ Always double-check that your key is included before sending a request.
 
 Example:
 POST https://api.chimoney.io/v0.2/accounts/balance
-Authorization: Bearer <your_api_key>
+Authorization: Bearer _api_key>
 Content-Type: application/json
 
 **cURL Example:**
 ```bash
 curl -X POST "https://api.chimoney.io/v0.2/accounts/balance" \
--H "Authorization: Bearer <your_api_key>" \
+-H "Authorization: Bearer `your_api_key`" \
 -H "Content-Type: application/json"
 ```
 If you use the wrong method (like GET instead of POST), you’ll see a 405 Method Not Allowed error.

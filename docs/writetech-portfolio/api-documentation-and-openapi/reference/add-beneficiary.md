@@ -20,10 +20,8 @@ It is commonly used when you need to:
 POST /v0.2.4/beneficiaries/add
 
 ### Authentication
-```http
-X-API-KEY: `<YOUR_API_KEY>`
+X-API-KEY: `YOUR_API_KEY`
 Content-Type: application/json
-```
 
 ---
 

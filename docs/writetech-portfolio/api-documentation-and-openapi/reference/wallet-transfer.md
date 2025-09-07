@@ -3,7 +3,6 @@ id: wallet-transfer
 title: Transfer Funds Between Wallets
 ---
 
-# Overview
 
 This endpoint allows you to transfer funds from one wallet to another, or from a wallet to an external recipient (email/phone).
 

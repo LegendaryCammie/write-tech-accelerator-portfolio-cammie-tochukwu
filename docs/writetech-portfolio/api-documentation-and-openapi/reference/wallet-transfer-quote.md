@@ -3,7 +3,6 @@ id: wallet-transfer-quotes
 title: Get Wallet Transfer Quote
 ---
 
-# Overview
 
 This file helps you understand how to **fetch a transfer quote** before actually sending money.  
 It is commonly used when you need to:

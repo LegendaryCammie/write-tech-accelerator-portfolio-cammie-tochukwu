@@ -4,7 +4,6 @@ title: Add Bank Beneficiary
 
 ---
 
-# Overview
 
 This file helps you understand how to **add a new bank beneficiary** to your account.  
 Beneficiaries are required before you can send funds to them.  

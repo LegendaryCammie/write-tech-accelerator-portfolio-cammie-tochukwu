@@ -2,7 +2,7 @@
 id: wallet-details
 title: Get Single Wallet Details
 ---
-# Overview
+
 
 This file helps you understand how to fetch the details of a specific wallet in Chimoney. 
 
